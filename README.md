@@ -42,7 +42,7 @@ X4LifeSigns is where the idea is being tested in an actual simulated game world,
 
 <div align="center">
 
-<a href="https://github.com/yeahmyusernameis32characterslong/X4LifeSigns">
+<a href="https://github.com/yeahmyusernameis32characterslong/X4LifeSigns#readme">
   <img src="assets/x4-lifesigns-banner.png" alt="X4LifeSigns" width="900">
 </a>
 
