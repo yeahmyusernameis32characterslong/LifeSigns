@@ -1,3 +1,5 @@
+<a name="lifesigns-top"></a>
+
 <div align="center">
 
 <img src="assets/lifesigns-hub-banner.png" alt="Life Signs" width="900">
@@ -42,7 +44,7 @@ X4LifeSigns is where the idea is being tested in an actual simulated game world,
 
 <div align="center">
 
-<a href="https://github.com/yeahmyusernameis32characterslong/X4LifeSigns#readme">
+<a href="https://github.com/yeahmyusernameis32characterslong/X4LifeSigns#x4lifesigns-top">
   <img src="assets/x4-lifesigns-banner.png" alt="X4LifeSigns" width="900">
 </a>
 
