@@ -1,0 +1,4 @@
+# Private machine-specific setup notes and environment configuration
+SETUP.local.md
+.env
+.env.*
