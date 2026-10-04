@@ -14,7 +14,7 @@
 
 ## What is Life Signs?
 
-**Life Signs** is a proof of concept exploring what happens when game worlds are allowed to remember.
+**Life Signs** is a project exploring what happens when game worlds are allowed to remember.
 
 Games already create enormous amounts of history. Characters survive battles, travel with the player, change jobs, lose friends, move between places and experience events that may never happen in quite the same way again. Yet much of that history has little lasting meaning to the people supposedly living inside the world.
 
@@ -38,9 +38,9 @@ The game still creates the world, the events and the stories. Life Signs gives t
 
 ### X4LifeSigns
 
-The first Life Signs proof of concept is being developed for **X4: Foundations**.
+The first working Life Signs proof of concept is planned for **X4: Foundations**.
 
-X4LifeSigns is where the idea is being tested in an actual simulated game world, connecting persistent events and characters with memory, contextual interaction and natural conversation.
+X4LifeSigns is intended to test the idea in an actual simulated game world, connecting persistent events and characters with memory, contextual interaction and natural conversation. That integration has not yet been implemented.
 
 <div align="center">
 
@@ -64,13 +64,17 @@ The first implementation is:
 
 | Project | Game | Status |
 |---|---|---|
-| [X4LifeSigns](https://github.com/yeahmyusernameis32characterslong/X4LifeSigns) | X4: Foundations | Early proof of concept |
+| [X4LifeSigns](https://github.com/yeahmyusernameis32characterslong/X4LifeSigns) | X4: Foundations | Design stage; first working proof of concept planned |
 
 ---
 
 ## Project Status
 
-Life Signs is currently an **early proof of concept**.
+Life Signs is currently at the **design stage; the first working proof of concept is planned**.
+
+The repositories currently contain design documentation and artwork. No runnable mod or supporting service has been implemented.
+
+See [the project vision](VISION.md), [implementation status](IMPLEMENTATIONS.md) and [contribution guidance](CONTRIBUTING.md).
 
 The first goal is simply to discover whether giving characters meaningful persistent memory can change how a simulated world feels to the person playing it.
 
